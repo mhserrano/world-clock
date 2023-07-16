@@ -24,6 +24,10 @@ select {
   border-radius: 5px;
   font-size: 18px;
 }
+a {
+  text-decoration: none;
+  color: #000000;
+}
 
 .box {
   background-color: white;
